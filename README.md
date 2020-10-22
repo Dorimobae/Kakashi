@@ -1,2 +1,0 @@
-# kakashi
- kakashi bot

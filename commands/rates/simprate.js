@@ -9,6 +9,7 @@ module.exports = class simprateCommand extends Command {
             group: 'rates',
             memberName: 'simprate',
             description: 'shows you how much of a simp you are!',
+            
             guildOnly: true,
             
         })

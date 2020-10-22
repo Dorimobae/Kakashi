@@ -31,4 +31,4 @@ client.once('ready', () => {
 
 client.on('error', console.error);
 
-client.login('NzY3NzQzOTc3NDExMDUxNTUw.X42XTA.LKHI5ZwC_7MXUFYGSzUWBRc3swg');
+client.login('NzY3NzQzOTc3NDExMDUxNTUw.X42XTA.qC1NIDTtukmWJn9LwPN-fbmdm9Y');
