@@ -1,0 +1,25 @@
+{
+  "name": "kakashi",
+  "version": "1.0.0",
+  "description": "Kakashi bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dorimobae/kakashi"
+  },
+  "author": "dorimo#0001",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "github:discordjs/commando",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.3"
+  }
+}
